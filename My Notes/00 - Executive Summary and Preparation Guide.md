@@ -1,9 +1,4 @@
 # Zero Level Mathematical Foundation
-## Executive Summary & Preparation Guide for January 17th Lecture
-
----
-
-# EXECUTIVE SUMMARY
 
 ## Purpose of This Document
 You need to complete **Lecture 0a, 0b, and 0c** before the first Mathematics for ML lecture. This guide synthesizes all content from the professor's bridge sessions and lecture materials.
