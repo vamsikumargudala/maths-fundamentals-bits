@@ -3,6 +3,22 @@
 ## Overview
 This repository contains all study materials, notes, and practice problems for the Zero Level Mathematical Foundation course, a prerequisite for the Mathematics for Machine Learning module in the M.Tech AI/ML program.
 
+---
+
+## My Notes: Quick Navigation
+
+- [Executive Summary & Preparation Guide](My%20Notes/00%20-%20Executive%20Summary%20and%20Preparation%20Guide.md):
+  - Synthesis of all bridge sessions and lecture content. Outlines the three pillars to master and key deadlines.
+- [Lecture 0a: Matrix Fundamentals Briefing](My%20Notes/Lecture%200a%20-%20Matrix%20Fundamentals%20Briefing.md):
+  - Matrix definitions, operations, special types, and row operations. Key for all AI/ML data representation.
+- [Lecture 0b: Linear Systems Briefing](My%20Notes/Lecture%200b%20-%20Linear%20Systems%20Briefing.md):
+  - Linear systems, row echelon forms, rank, and solution types. Consistency rules and solution strategies.
+- [Lecture 0c: Determinants and Eigenvalues Briefing](My%20Notes/Lecture%200c%20-%20Determinants%20and%20Eigenvalues%20Briefing.md):
+  - Determinants, invertibility, eigenvalues, and eigenvectors. Foundation for advanced ML topics.
+- [Practice Problems Guide](My%20Notes/Practice%20Problems%20Guide.md):
+  - Step-by-step strategies and templates for all problem types. Use with official practice problem sets.
+
+---
 
 ## Structure
 
