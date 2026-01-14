@@ -3,8 +3,6 @@
 ## Purpose of This Document
 You need to complete **Lecture 0a, 0b, and 0c** before the first Mathematics for ML lecture. This guide synthesizes all content from the professor's bridge sessions and lecture materials.
 
----
-
 ## The Three Pillars You Must Master
 
 ### Pillar 1: Matrix Algebra (Lecture 1)
@@ -71,9 +69,9 @@ You need to complete **Lecture 0a, 0b, and 0c** before the first Mathematics for
 
 | Document | Content | Priority |
 |----------|---------|----------|
-| [Lecture 1 Briefing](Lecture%200a%20-%20Matrix%20Fundamentals%20Briefing.md) | Matrix notation, operations, special types, row operations | 🔴 HIGH |
-| [Lecture 2 Briefing](Lecture%200b%20-%20Linear%20Systems%20Briefing.md) | REF, RREF, Rank, solving linear systems | 🔴 HIGH |
-| [Lecture 3 Briefing](Lecture%200c%20-%20Determinants%20and%20Eigenvalues%20Briefing.md) | Determinants, inverses, eigenvalues | 🔴 HIGH |
+| [Lecture 1 Briefing](Lecture%201%20-%20Matrix%20Fundamentals%20Briefing.md) | Matrix notation, operations, special types, row operations | 🔴 HIGH |
+| [Lecture 2 Briefing](Lecture%202%20-%20Linear%20Systems%20Briefing.md) | REF, RREF, Rank, solving linear systems | 🔴 HIGH |
+| [Lecture 3 Briefing](Lecture%203%20-%20Determinants%20and%20Eigenvalues%20Briefing.md) | Determinants, inverses, eigenvalues | 🔴 HIGH |
 
 ---
 
