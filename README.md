@@ -5,7 +5,7 @@ This repository contains all study materials, notes, and practice problems for t
 
 ---
 
-## My Notes: Quick Navigation
+## Notes: Quick Navigation
 
 - [Executive Summary & Preparation Guide](My%20Notes/00%20-%20Executive%20Summary%20and%20Preparation%20Guide.md):
   - Synthesis of all bridge sessions and lecture content. Outlines the three pillars to master and key deadlines.
